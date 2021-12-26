@@ -11,7 +11,7 @@
 - Tool,MiddleWare : Git, PostgreSQL
 
 # <a name="header-1-7b8af977b90a67e053ff2667a26828fe"></a> Works
-- [GitHub] https://github.com/tatsukikane
+- [GitHub] (https://github.com/tatsukikane)
 - 作った作品
   - [DinoGame]  (https://tatsukikane.github.io/dinogame/) 
   - [群馬須賀農園HP] (https://gunma-sugafarm.com/)
