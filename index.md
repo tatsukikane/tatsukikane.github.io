@@ -1,7 +1,7 @@
 
 # <a name="header-1-8f7f4c1ce7a4f933663d10543562b096"></a> 
 
-{: align="center"}
+{:align="center"}
 ![プロフィール写真](IMG_0356.png)
 
 # <a name="header-1-8f7f4c1ce7a4f933663d10543562b096"></a> About
