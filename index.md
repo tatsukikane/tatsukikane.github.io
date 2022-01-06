@@ -1,9 +1,8 @@
 
 # <a name="header-1-8f7f4c1ce7a4f933663d10543562b096"></a> 
 
-<div aligin"center">
+{: align="center"}
 ![プロフィール写真](IMG_0356.png)
-</div>
 
 # <a name="header-1-8f7f4c1ce7a4f933663d10543562b096"></a> About
 人生にほんの少しのHappyをプラスできるようさサービスを作る為プログラミングを学習しているやつです
